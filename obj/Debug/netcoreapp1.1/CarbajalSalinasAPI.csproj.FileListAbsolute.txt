@@ -1,0 +1,9 @@
+c:\users\josec\onedrive\documents\visual studio 2017\Projects\CarbajalSalinasAPI\CarbajalSalinasAPI\bin\Debug\netcoreapp1.1\CarbajalSalinasAPI.deps.json
+c:\users\josec\onedrive\documents\visual studio 2017\Projects\CarbajalSalinasAPI\CarbajalSalinasAPI\bin\Debug\netcoreapp1.1\CarbajalSalinasAPI.runtimeconfig.json
+c:\users\josec\onedrive\documents\visual studio 2017\Projects\CarbajalSalinasAPI\CarbajalSalinasAPI\bin\Debug\netcoreapp1.1\CarbajalSalinasAPI.runtimeconfig.dev.json
+c:\users\josec\onedrive\documents\visual studio 2017\Projects\CarbajalSalinasAPI\CarbajalSalinasAPI\bin\Debug\netcoreapp1.1\CarbajalSalinasAPI.dll
+c:\users\josec\onedrive\documents\visual studio 2017\Projects\CarbajalSalinasAPI\CarbajalSalinasAPI\bin\Debug\netcoreapp1.1\CarbajalSalinasAPI.pdb
+c:\users\josec\onedrive\documents\visual studio 2017\Projects\CarbajalSalinasAPI\CarbajalSalinasAPI\obj\Debug\netcoreapp1.1\CarbajalSalinasAPI.csprojResolveAssemblyReference.cache
+c:\users\josec\onedrive\documents\visual studio 2017\Projects\CarbajalSalinasAPI\CarbajalSalinasAPI\obj\Debug\netcoreapp1.1\CarbajalSalinasAPI.AssemblyInfo.cs
+c:\users\josec\onedrive\documents\visual studio 2017\Projects\CarbajalSalinasAPI\CarbajalSalinasAPI\obj\Debug\netcoreapp1.1\CarbajalSalinasAPI.dll
+c:\users\josec\onedrive\documents\visual studio 2017\Projects\CarbajalSalinasAPI\CarbajalSalinasAPI\obj\Debug\netcoreapp1.1\CarbajalSalinasAPI.pdb
